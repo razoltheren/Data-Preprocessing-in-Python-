@@ -8,9 +8,7 @@
 
 ## Jupyter notebooks  
 * Setting up and using Jupyter notebooks
-* Using the brower efficiently
-* Installing and using interactive widgets        #### will do in upcoming session
-* Installing important jupyter extensions for ease of data crunching    #### will cover in the future session
+* Using the browser efficiently       
 
 ## Numpy 
 * Why Numpy(demonstrate less memory, fast and convenient)
@@ -83,6 +81,8 @@
 * merging
 * reshaping (pivoting)
 
+### Casestudy 1 : IPL case 
+### Casestudy 2 : HR Analytics
 
 
 ## How to address date in Python
@@ -106,3 +106,16 @@
 * strips() - getting the whitespace out of the string
 * get() - take out certain string from the cell.
 
+### Caestudy 3 : Analysing the pricing of the cars in European market
+### Casestudy 4 : To assess whether the commercial bank should grant the loan. 
+
+## Matplotlib  
+* Introduction with relevance
+* Basic plots(line,bar,histogram,Scatter,stack,pie chart and heat map)
+* Labels, titles, legends and other customization for better understanding
+
+## Introduction to Sklearn
+* Sklearn vision and goals
+* Features of sklearn
+* The most common steps used in sklearn
+* Popular group of models found in sklearn
