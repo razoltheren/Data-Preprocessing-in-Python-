@@ -81,8 +81,8 @@
 * merging
 * reshaping (pivoting)
 
-### Casestudy 1 : IPL case 
-### Casestudy 2 : HR Analytics
+### Case study 1 : IPL study - Performances of teams and players over last 11 years
+### Case study 2 : HR Analytics - Study the attrition rate of company and the major reasons for the attrition.
 
 
 ## How to address date in Python
@@ -106,8 +106,8 @@
 * strips() - getting the whitespace out of the string
 * get() - take out certain string from the cell.
 
-### Caestudy 3 : Analysing the pricing of the cars in European market
-### Casestudy 4 : To assess whether the commercial bank should grant the loan. 
+### Case study 3 : Pricing Analytics -  Factors affecting the pricing of the cars in European market
+### Case study 4 : To assess whether the commercial bank should grant the loan. 
 
 ## Matplotlib  
 * Introduction with relevance
